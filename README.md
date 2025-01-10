@@ -1,7 +1,7 @@
 # IBM Data Science Professional Certificate
 ------------
 | Courses  | Status  |
-| ------------ | ------------ |
+| :------------: | :------------: |
 | What is Data Science?  | Done |
 | Tools for Data Science  | Done |
 | Data Science Methodology  | Done |
