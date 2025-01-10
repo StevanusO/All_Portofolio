@@ -33,7 +33,7 @@ Question
   > -  "sqft_living15"
   > -  "sqft_above"
   > -  "grade"
-  > -  "sqft_living"
+  > -  "sqft_living"  
   >  Take a screenshot of your code and R^2 value and upload it.
 - Question 8:
   > Create a pipeline object that scales the data, performs a polynomial transform, and fits a linear regression model. Fit the object using the features in the question above, then fit the model and calculate the R^2. Take a screenshot of your code and the R^2 and upload it.
