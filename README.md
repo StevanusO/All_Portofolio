@@ -8,7 +8,7 @@
 | Python for Data Science, AI & Development  | Done |
 | Python Project for Data Science  | Done |
 | Databases and SQL for Data Science with Python  | Done |
-| Data Analysis with Python  | In-Progress |
+| Data Analysis with Python  | Done |
 | Data Visualization with Python  | Not Yet |
 | Machine Learning with Python  | Not Yet |
 | Applied Data Science Capstone  | Not Yet |
